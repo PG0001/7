@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "userName": "John Doe",
+    "eventName": "Team Meeting",
+    "type": "Email",
+    "status": "Unread",
+    "scheduledTime": "2025-12-05T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "userName": "Jane Smith",
+    "eventName": "Webinar",
+    "type": "SMS",
+    "status": "Read",
+    "scheduledTime": "2025-12-06T12:00:00Z"
+  }
+]
